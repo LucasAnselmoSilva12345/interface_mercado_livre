@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
-
 # UI CLONE - Interface Mercado Livre
 
 <p align="left" font-size="16px">
@@ -8,6 +6,12 @@
   <br/>
   Interface clone made in the Rocketseat class videos.
 </p>
+
+<br/>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/190690980@N06/50796356103/in/dateposted-public/" title="1"><img src="https://live.staticflickr.com/65535/50796356103_5ea96a6f3f_z.jpg" width="640" height="314" alt="1"></a>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/190690980@N06/50797222857/in/dateposted-public/" title="2"><img src="https://live.staticflickr.com/65535/50797222857_4af1f5fbe0_z.jpg" width="640" height="264" alt="2"></a>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/190690980@N06/50796355958/in/dateposted-public/" title="3"><img src="https://live.staticflickr.com/65535/50796355958_6b7d54957f_z.jpg" width="640" height="203" alt="3"></a>
 
 <br/>
 
