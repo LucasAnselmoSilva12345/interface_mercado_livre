@@ -31,4 +31,4 @@
 
 https://quizzical-ardinghelli-f26421.netlify.app/
 
-[![Linkedin Badge](https://img.shields.io/badge/-UI-CLONE-MercadoLivre%20-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/posts/lucas-anselmo-moraes-da-silva-543636161_ui-reactjs-html-activity-6708826515292860416-4liF)
+https://www.linkedin.com/posts/lucas-anselmo-moraes-da-silva-543636161_ui-reactjs-html-activity-6708826515292860416-4liF
